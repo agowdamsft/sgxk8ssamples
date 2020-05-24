@@ -49,4 +49,4 @@ spec:
           path: /var/lib/kubelet/device-plugins
       - name: dev-sgx
         hostPath:
-          path: /dev/sgx 
+          path: /dev/sgx
